@@ -1,2 +1,2 @@
 # QICWeb
-Building a website for QIC Ghana
+Building a pseudo website for QIC Ghana
