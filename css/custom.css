@@ -1,0 +1,4 @@
+div.required:after {
+    content: " *";
+    color: red;
+}
